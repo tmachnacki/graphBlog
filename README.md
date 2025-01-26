@@ -1,5 +1,5 @@
 # GraphBlog
-GraphBlog is a modern responsive CMS blog application complete with featured posts carousel, recent posts, categoreis, full markdown articles, author information, functional comments, and more. This projects is built using NextJS(React framework), TailwindCSS, hygraph (headless CMS), and GraphQL. GraphBlog is deployed via Vercel.
+GraphBlog is a modern responsive CMS blog application complete with featured posts carousel, recent posts, categories, full markdown articles, author information, functional comments, and more. This projects is built using NextJS(React framework), TailwindCSS, hygraph (headless CMS), and GraphQL. GraphBlog is deployed via Vercel.
 
 This project was completed as part of a tutorial via [JavascriptMastery](https://www.youtube.com/@javascriptmastery) on YouTube. All images via Unsplash.
 
